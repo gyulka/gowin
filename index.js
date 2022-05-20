@@ -70,7 +70,7 @@ function main(i) {
             while (x < 7) {
                 place_bet(i, [inv[0]['id']])
                 x = x + 1
-                sleep(500)
+                sleep(1200)
             }
         }
         x = []
